@@ -1,4 +1,4 @@
-# Intentionally flawed Python program
+# Draw Card. Fixed version
 
 # importing modules
 import itertools, random
